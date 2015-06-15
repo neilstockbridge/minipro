@@ -10,7 +10,7 @@ OBJCOPY=objcopy
 VERSION=0.1
 
 
-PREFIX ? = /usr/local
+PREFIX ?= /usr
 DESTDIR =
 DIST_DIR = $(MINIPRO)-$(VERSION)
 BIN_DIR = $(DESTDIR)$(PREFIX)/bin/

@@ -2,3 +2,4 @@
 minipro
 minipro-query-db
 version.h
+debian/minipro.debhelper.log
